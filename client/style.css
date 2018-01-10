@@ -3,7 +3,7 @@
 html, body {
   margin: 0;
   font-size: 14px; line-height: 20px;
-  color: #333;
+  color: #000;
 }
 
 p {
@@ -11,13 +11,13 @@ p {
 }
 
 a {
-  color: #0088cc;
+  color: #333333;
   text-decoration: none;
 }
 
 a:hover,
 a:focus {
-  color: #005580;
+  color: #333333;
   text-decoration: underline;
 }
 
@@ -62,12 +62,12 @@ pre {
 }
 
 .navbar a {
-  color: #999;
+  color: #333;
   text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
 }
 
 .navbar a:hover, .navbar a:focus {
-  color: #fff;
+  color: #333;
   text-decoration: none;
 }
  
