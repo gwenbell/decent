@@ -72,9 +72,9 @@ pre {
 }
  
 .navbar {
-  background: #1b1b1b;
-  background: linear-gradient(#222, #111);
-  border-bottom: 1px solid #252525;
+  background: #fff;
+  //background: linear-gradient(#222, #111);
+  border-bottom: 1px solid #cc1818;
 }
 
 .screen {
